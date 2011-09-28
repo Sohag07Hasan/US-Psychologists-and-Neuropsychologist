@@ -1,0 +1,139 @@
+#doctor-form-submit,#find-doctor{
+	margin-left:300px;
+}
+
+#messageing{
+-moz-border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    margin: 5px 15px 2px 0px;
+    padding: 0 0.6em;
+ 
+ }
+ 
+.errors{
+	background-color: #FFEBE8;
+    border-color: #CC0000;
+}
+
+
+.updateds{
+	background-color: #FFFFE0;
+    border-color: #E6DB55;
+}
+
+#messageing p{
+	margin-left: 120px;
+	margin-top:0px;
+	font-size: 15px;
+}
+
+.errorss{
+	background-color: #FFEBE8;
+    border-color: #CC0000;
+}
+
+.errorss p{
+	margin-left:5px;
+}
+
+#page-title{
+	margin-left:300px;
+		
+}
+
+.errorfield{
+	background-color:#EE4646;
+}
+.wrapping{
+	background-color:#FFFFFF;
+	overflow:auto;
+	margin-bottom: 18px;
+}
+
+.form-tabletable td{
+	padding:9px;
+}
+
+.form-tabletable{
+	margin-bottom:10px;
+}
+
+
+.contact-information{
+	
+	width:50%;	
+	float:right;		
+}
+.degree-contact{
+	
+	width:50%;
+	float:left;	
+}
+span.headline{
+	margin-top:10px;
+	font-size:17px;
+	font-family: serif;
+	font-weight:bold;
+	color:#6A2525;
+	text-decoration:underline;
+	font-style:italic;
+	display:block;
+}
+
+#seach_id{
+	margin-left:20px;
+	width:98%;
+	height: 700px;
+}
+.newpost{
+	background:#FFFFFF;	
+	background: none repeat scroll 0 0 #FFFFFF;
+    margin: 0 0 20px;    
+    padding: 20px 25px 0;
+    position: relative;
+}
+
+div.pagination{
+	height:800px;
+	overflow:auto;
+	background-color:#FFFFFF;
+}
+
+div#checkform{
+margin:20px;
+padding:9px;
+border:1px dotted #A52A2A;
+}
+#checkform input{
+	margin:2px;
+	
+}
+
+.formshown{
+	display:block;
+	padding:9px;
+	border:1px dotted #A52A2A;
+}
+
+.formhidden{
+	display:none;
+}
+
+.alreadyr{
+	font-size:15px;
+	margin:10px;
+}
+
+.form-tabletable tr{
+	margin-bottom:8px;
+}
+.italicstyle{
+		
+}
+
+.customtextarea{
+	display:none;
+}
+
+
